@@ -26,34 +26,34 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: ""
-  ui[4]: ""
-  ui[5]: ""
-  ui[6]: ""
-  ui[7]: ""
+  ui[0]: "25.175MHz Pixel Clock"
+  ui[1]: "Active-low Reset (rst_n)"
+  ui[2]: "N/A"
+  ui[3]: "N/A"
+  ui[4]: "N/A"
+  ui[5]: "N/A"
+  ui[6]: "N/A"
+  ui[7]: "N/A"
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "VGA Blue (SLB)"
+  uo[1]: "VGA Blue (SLB)"
+  uo[2]: "VGA Green (SLB)"
+  uo[3]: "VGA Green (SLB)"
+  uo[4]: "VGA Green (SLB)"
+  uo[5]: "VGA Red (SLB)"
+  uo[6]: "VGA Red (SLB)"
+  uo[7]: "VGA Red (SLB)"
 
   # Bidirectional pins
-  uio[0]: ""
-  uio[1]: ""
-  uio[2]: ""
-  uio[3]: ""
-  uio[4]: ""
-  uio[5]: ""
-  uio[6]: ""
-  uio[7]: ""
+  uio[0]: "N/A"
+  uio[1]: "N/A"
+  uio[2]: "N/A"
+  uio[3]: "N/A"
+  uio[4]: "N/A"
+  uio[5]: "N/A"
+  uio[6]: "N/A"
+  uio[7]: "N/A"
 
 # Do not change!
 yaml_version: 6
