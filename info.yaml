@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "123 matrix"      # Project title
+  title:        "123_MATRIX"      # Project title
   author:       "Alexander Co Abad"      # Your name
   discord:      "alexandercoabad_25756"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "based from Tiny Tapeout Verilog Template"      # One line description of what your project does
